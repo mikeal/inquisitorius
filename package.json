@@ -1,0 +1,27 @@
+{
+  "name": "inquisitorius",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "bent": "^7.0.1",
+    "parse-link-header": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^14.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeal/inquisitorius.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikeal/inquisitorius/issues"
+  },
+  "homepage": "https://github.com/mikeal/inquisitorius#readme",
+  "description": "Automated org management"
+}
