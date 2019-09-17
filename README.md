@@ -1,0 +1,3 @@
+# inquisitorius
+
+GitHub permission auditing.
